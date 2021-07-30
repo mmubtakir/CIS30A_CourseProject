@@ -2,10 +2,12 @@ CIS30A Course Project
 
 Write a Python program to place order and set appointment for delivery of goods or services from a business of your choice (restaurant, grocery, mobile pet spa, mobile car detailer, home cleaning, home repair/improvement, mobile car repair, etc.…) . 
 *Note: Tkcalendar can be used in this option.
+
   o	The program should prompt the user to select products or services and appointment or    delivery   date and time from the available options in the 1-year span. 
   o	The program should display the user selection on screen.
   o	The program should output the order summary and appointment in a text file.
   o	The program should contain the following components:
+  
     	Include comments throughout the program (10 points)
     	Use variables and list to store and access data. You can use tuple or dictionary in place of a     list (20 points)
   	Use string object to display and control text output. (10 points)
